@@ -8,6 +8,6 @@ title: IMMERSE Log
 * **Monday**: Moved to a new apartment
 * **Tuesday**: Moved to a new apartment
 * **Wednesday**: Set up computer and website, completed linux tutorial, and attened immerse meetings.
-* **Thursday**: 
+* **Thursday**: Set up and experimented with VTR, attended VTR meeting, upgraded Linux, and compared the FPGA implementation in VTR and Vivado.
 * **Friday**:
 
