@@ -15,7 +15,8 @@ title: IMMERSE Log
 
 ### Week 2: May 3, 2021
 
-* **Monday**: 
+* **Monday**:   Created an XML Architecture Template that explains necessary commands and includes examples.
+                Experimented with architecture layouts and attended bootcamp meeting about VSCode.
 * **Tuesday**: 
 * **Wednesday**:
 * **Thursday**:
