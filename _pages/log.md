@@ -17,7 +17,8 @@ title: IMMERSE Log
 
 * **Monday**:   Created an XML Architecture Template that explains necessary commands and includes examples.
                 Experimented with architecture layouts and attended bootcamp meeting about VSCode.
-* **Tuesday**: 
+* **Tuesday**:  Read about what Netcracker revealed about Xilinx FPGA routing and studied Xilinx FPGA implemented 
+                design. Created a new architecture from my template and experimented with different designs.
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
