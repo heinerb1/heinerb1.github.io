@@ -19,6 +19,7 @@ title: IMMERSE Log
                 Experimented with architecture layouts and attended bootcamp meeting about VSCode.
 * **Tuesday**:  Read about what Netcracker revealed about Xilinx FPGA routing and studied Xilinx FPGA implemented 
                 design. Created a new architecture from my template and experimented with different designs.
-* **Wednesday**:
+* **Wednesday**: Continued to study Xilinx architecture and compare it with VPR designs. Completed assignments for 
+                 Ethics BI Subgroup. Attened Immerse Meetings.
 * **Thursday**:
 * **Friday**:
