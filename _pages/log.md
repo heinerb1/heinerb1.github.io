@@ -22,5 +22,14 @@ title: IMMERSE Log
 * **Wednesday**: Continued to study Xilinx architecture and compare it with VPR designs. Completed assignments for 
                  Ethics group. Attended immerse meetings.
 * **Thursday**: In-depth study of Xilinix architecture. Attended meeting about VTR project. Worked on assignment for
-                Ethics group
-* **Friday**:
+                Ethics group.
+* **Friday**: Continued in-depth study of Xilinix architecture and read about FPGA routing. Attended bootcamp 
+              meeting about cmake.
+
+### Week 3: May 10, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
