@@ -28,7 +28,8 @@ title: IMMERSE Log
 
 ### Week 3: May 10, 2021
 
-* **Monday**: 
+* **Monday**:   Assembled a verilog program in VTR and studied the primitives in the symbiflow arch def project. 
+                Attended bootcamp meeting about python and wrote several small python scripts to practice.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
