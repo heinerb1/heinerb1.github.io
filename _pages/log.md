@@ -30,7 +30,8 @@ title: IMMERSE Log
 
 * **Monday**:   Assembled a verilog program in VTR and studied the primitives in the symbiflow arch def project. 
                 Attended bootcamp meeting about python and wrote several small python scripts to practice.
-* **Tuesday**: 
+* **Tuesday**:  Adjusted my website and added myself to the CCL website. Fixed several small bugs in VTR architecture 
+                files, improved one of my python scripts, and studied more about FPGA architecture.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
