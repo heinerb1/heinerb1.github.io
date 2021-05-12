@@ -32,6 +32,7 @@ title: IMMERSE Log
                 Attended bootcamp meeting about python and wrote several small python scripts to practice.
 * **Tuesday**:  Adjusted my website and added myself to the CCL website. Fixed several small bugs in VTR architecture 
                 files, improved one of my python scripts, and studied more about FPGA architecture.
-* **Wednesday**: 
+* **Wednesday**: Created the csv_parser python script and attended immerse meetings. Also made another small adjustment
+                 to my website and updated git repositories.
 * **Thursday**: 
 * **Friday**: 

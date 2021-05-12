@@ -175,9 +175,6 @@ $sidebar-hover-color: $secondary-color1;
      color: $brand-color;
      text-decoration: none;
  
-     &:visited {
-     }
- 
      &:hover {
          color: darken($brand-color, 15%);
          text-decoration: underline;
