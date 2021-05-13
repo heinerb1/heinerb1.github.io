@@ -34,5 +34,6 @@ title: IMMERSE Log
                 files, improved one of my python scripts, and studied more about FPGA architecture.
 * **Wednesday**: Created the csv_parser python script and attended immerse meetings. Also made another small adjustment
                  to my website and updated git repositories.
-* **Thursday**: 
+* **Thursday**: Read about Xilinx primitives and compared them to the symbiflow_arch_defs xml files. Attended meeting 
+                about VTR, wrote a python script to convert tab delinieated .txt files to comma deliniated .csv files, and ran some regression tests.
 * **Friday**: 
