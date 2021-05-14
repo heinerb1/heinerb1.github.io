@@ -36,4 +36,13 @@ title: IMMERSE Log
                  to my website and updated git repositories.
 * **Thursday**: Read about Xilinx primitives and compared them to the symbiflow_arch_defs xml files. Attended meeting 
                 about VTR, wrote a python script to convert tab delinieated .txt files to comma deliniated .csv files, and ran some regression tests.
-* **Friday**: 
+* **Friday**: Ran regression tests to comapre modified versions of VTR architectures to their originals, attended bootcamp 
+              meething about python packages, and experimented with the packages.
+
+### Week 4: May 17, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
