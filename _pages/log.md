@@ -41,7 +41,8 @@ title: IMMERSE Log
 
 ### Week 4: May 17, 2021
 
-* **Monday**:
+* **Monday**: Ran additional regression tests on modified files and attended bootcamp about unit tests and github actions Also 
+              wrote summer proposal.
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
