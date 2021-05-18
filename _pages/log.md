@@ -41,9 +41,10 @@ title: IMMERSE Log
 
 ### Week 4: May 17, 2021
 
-* **Monday**: Ran additional regression tests on modified files and attended bootcamp about unit tests and github actions Also 
+* **Monday**: Ran additional regression tests on modified files and attended bootcamp about unit tests and github actions. Also 
               wrote summer proposal.
-* **Tuesday**:
+* **Tuesday**: Made modifications to a test architecture to make it mirror the Vivado architecture layout. Ran regression tests on
+               various designs and also worked on a CVS finder python script.
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
