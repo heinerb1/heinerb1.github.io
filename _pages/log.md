@@ -45,6 +45,7 @@ title: IMMERSE Log
               wrote summer proposal.
 * **Tuesday**: Made modifications to a test architecture to make it mirror the Vivado architecture layout. Ran regression tests on
                various designs and also worked on a CVS finder python script.
-* **Wednesday**:
+* **Wednesday**: Added additional clock regions to the test architecture, attended immerse meetings, and experimented with pylint and 
+                 sphinx. Also worked more on CVS script.
 * **Thursday**:
 * **Friday**:
