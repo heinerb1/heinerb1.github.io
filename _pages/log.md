@@ -47,5 +47,6 @@ title: IMMERSE Log
                various designs and also worked on a CVS finder python script.
 * **Wednesday**: Added additional clock regions to the test architecture, attended immerse meetings, and experimented with pylint and 
                  sphinx. Also worked more on CVS script.
-* **Thursday**:
+* **Thursday**: Worked more on the test architecture and examined switchblock connections in VTR. Attended VTR meeting and started  
+                reading about how to use Netcracker.
 * **Friday**:
