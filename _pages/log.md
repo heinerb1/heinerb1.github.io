@@ -37,7 +37,7 @@ title: IMMERSE Log
 * **Thursday**: Read about Xilinx primitives and compared them to the symbiflow_arch_defs xml files. Attended meeting 
                 about VTR, wrote a python script to convert tab delinieated .txt files to comma deliniated .csv files, and ran some regression tests.
 * **Friday**: Ran regression tests to comapre modified versions of VTR architectures to their originals, attended bootcamp 
-              meething about python packages, and experimented with the packages.
+              meeting about python packages, and experimented with the packages.
 
 ### Week 4: May 17, 2021
 
@@ -49,4 +49,13 @@ title: IMMERSE Log
                  sphinx. Also worked more on CVS script.
 * **Thursday**: Worked more on the test architecture and examined switchblock connections in VTR. Attended VTR meeting and started  
                 reading about how to use Netcracker.
+* **Friday**: Started working on project presentation, attended bootcamp meeting about docker, and read more about how
+              to use Netcracker.
+
+### Week 5: May 24, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
 * **Friday**:
