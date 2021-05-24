@@ -54,7 +54,8 @@ title: IMMERSE Log
 
 ### Week 5: May 24, 2021
 
-* **Monday**:
+* **Monday**: Completed project presentation, attended FPGA overview meeting, and compared different
+              Artix-7 architectures. Also set up an xserver on my laptop so I can work remotely.
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
