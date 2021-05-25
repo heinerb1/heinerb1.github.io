@@ -46,7 +46,7 @@ title: IMMERSE Log
 * **Tuesday**: Made modifications to a test architecture to make it mirror the Vivado architecture layout. Ran regression tests on
                various designs and also worked on a CVS finder python script.
 * **Wednesday**: Added additional clock regions to the test architecture, attended immerse meetings, and experimented with pylint and 
-                 sphinx. Also worked more on CVS script.
+                 sphinx.
 * **Thursday**: Worked more on the test architecture and examined switchblock connections in VTR. Attended VTR meeting and started  
                 reading about how to use Netcracker.
 * **Friday**: Started working on project presentation, attended bootcamp meeting about docker, and read more about how
@@ -56,7 +56,8 @@ title: IMMERSE Log
 
 * **Monday**: Completed project presentation, attended FPGA overview meeting, and compared different
               Artix-7 architectures. Also set up an xserver on my laptop so I can work remotely.
-* **Tuesday**:
+* **Tuesday**: Reviewed project presentation and experimented with routing settings in VTR. Finally 
+               got second monitor to work and wrote down questions for our next VTR meeting.
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
