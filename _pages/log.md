@@ -58,6 +58,7 @@ title: IMMERSE Log
               Artix-7 architectures. Also set up an xserver on my laptop so I can work remotely.
 * **Tuesday**: Reviewed project presentation and experimented with routing settings in VTR. Finally 
                got second monitor to work and wrote down questions for our next VTR meeting.
-* **Wednesday**:
+* **Wednesday**: Attended immerse meetings and gave my presentation about VTR. Experimented more with
+                 VTR routing and wrote down additional questions.
 * **Thursday**:
 * **Friday**:
