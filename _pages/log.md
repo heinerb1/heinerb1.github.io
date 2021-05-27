@@ -60,5 +60,6 @@ title: IMMERSE Log
                got second monitor to work and wrote down questions for our next VTR meeting.
 * **Wednesday**: Attended immerse meetings and gave my presentation about VTR. Experimented more with
                  VTR routing and wrote down additional questions.
-* **Thursday**:
+* **Thursday**: Continued to experiment with routing in VTR. Attended VTR meeting and began to experiment
+                with changing the rr_graph.cpp code to accomodate different channel widths.
 * **Friday**:
