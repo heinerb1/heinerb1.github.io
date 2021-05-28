@@ -62,4 +62,14 @@ title: IMMERSE Log
                  VTR routing and wrote down additional questions.
 * **Thursday**: Continued to experiment with routing in VTR. Attended VTR meeting and began to experiment
                 with changing the rr_graph.cpp code to accomodate different channel widths.
-* **Friday**:
+* **Friday**: Worked on case study analysis for ethics broader impacts group and self-paced Xilinx FPGA
+              deep dive activities. Also studied several VTR cpp files and attempted to make changes
+              to allow for custom channel width.
+
+### Week 6: May 31, 2021
+
+* **Monday**: Memorial Day Holiday.
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
