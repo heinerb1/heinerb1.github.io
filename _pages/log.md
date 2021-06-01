@@ -69,7 +69,9 @@ title: IMMERSE Log
 ### Week 6: May 31, 2021
 
 * **Monday**: Memorial Day Holiday.
-* **Tuesday**: 
+* **Tuesday**: Read through more of the VTR code to understand it and tried to learn more about
+               the channel widths. Also worked more on my ethics case study analysis and experimented
+               with CMake, gitignore, and my test code. 
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
