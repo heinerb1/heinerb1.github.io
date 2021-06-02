@@ -72,6 +72,10 @@ title: IMMERSE Log
 * **Tuesday**: Read through more of the VTR code to understand it and tried to learn more about
                the channel widths. Also worked more on my ethics case study analysis and experimented
                with CMake, gitignore, and my test code. 
-* **Wednesday**: 
+* **Wednesday**: Experimented with the different types of routing options in VTR and attended immerse
+                 meetings. Also attended bootcamp meeting about project xray, fasm, and FPGA tools. 
+                 Discovered that global routing can be accomplished by setting the --route_type VPR
+                 property to global and that the regression testing breaks for some designs due to
+                 tests trying odd numbers for channel widths.
 * **Thursday**: 
 * **Friday**: 
