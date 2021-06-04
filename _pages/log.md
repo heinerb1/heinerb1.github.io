@@ -82,4 +82,7 @@ title: IMMERSE Log
                 for VTR. Experimented with the debugger on several smaller programs to figure this out
                 and was successful at getting it to work for small programs. It seems that the VTR code
                 is not being compiled with debug flags even though I set VTR to debug mode.
-* **Friday**: 
+* **Friday**: Got debugging to work in VTR. It turns out I wasn't using the correct makefile. Attended 
+              bootcamp meeting about fasm2bels and other open source FPGA github repositories. Implemented
+              a fix in the regression test channel computation so that it only selects even numbers when
+              unidirectional wires are used.
