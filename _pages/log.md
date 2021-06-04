@@ -86,3 +86,11 @@ title: IMMERSE Log
               bootcamp meeting about fasm2bels and other open source FPGA github repositories. Implemented
               a fix in the regression test channel computation so that it only selects even numbers when
               unidirectional wires are used.
+
+### Week 7: June 7, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
