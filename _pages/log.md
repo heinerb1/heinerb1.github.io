@@ -89,7 +89,10 @@ title: IMMERSE Log
 
 ### Week 7: June 7, 2021
 
-* **Monday**: 
+* **Monday**: Added a fix in the regression test channel computation so that bidirectional wires do
+              not have their channel widths rounded to even numbers. Opened a feature request on the VTR
+              github repo explaining what I had been working on. Also attended bootcamp meeting and ran
+              a large number of tests to ensure that my changes did not impact other parts of the code.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
