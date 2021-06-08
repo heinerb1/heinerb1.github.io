@@ -93,7 +93,9 @@ title: IMMERSE Log
               not have their channel widths rounded to even numbers. Opened a feature request on the VTR
               github repo explaining what I had been working on. Also attended bootcamp meeting and ran
               a large number of tests to ensure that my changes did not impact other parts of the code.
-* **Tuesday**: 
+* **Tuesday**: Finished ethics case study analysis and continued to experiment with VTR routing. Tested
+               segments with channel widths approximating those found in Xilinx FPGAs and spent some time
+               comparing 7 series FPGAs to look for patterns in the placement and routing.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
