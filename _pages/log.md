@@ -96,6 +96,10 @@ title: IMMERSE Log
 * **Tuesday**: Finished ethics case study analysis and continued to experiment with VTR routing. Tested
                segments with channel widths approximating those found in Xilinx FPGAs and spent some time
                comparing 7 series FPGAs to look for patterns in the placement and routing.
-* **Wednesday**: 
+* **Wednesday**: Attended immerse meetings and read through some of the symbiflow_arch_defs documentation.
+                 Since the XML files are assembled using CMake I tried using their make commands to assemble
+                 a complete XML architecture file but I have had no luck so far. Also continued to experiment
+                 with modifications to an architecture file to determine other features we will need to add
+                 to capture Xilinx 7 series FPGAs.
 * **Thursday**: 
 * **Friday**: 
