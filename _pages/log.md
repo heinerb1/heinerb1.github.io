@@ -101,5 +101,8 @@ title: IMMERSE Log
                  a complete XML architecture file but I have had no luck so far. Also continued to experiment
                  with modifications to an architecture file to determine other features we will need to add
                  to capture Xilinx 7 series FPGAs.
-* **Thursday**: 
+* **Thursday**: Successfully assembled an architecture file using the symbiflow_arch_defs tools. Attended
+                VTR meeting and began working on trying to implement part of the symbiflow architecture into
+                VTR. However, it seems that this will be a difficult process and that it will be hard to piece
+                these parts together correctly in an architecture file.
 * **Friday**: 
