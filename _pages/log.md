@@ -105,4 +105,16 @@ title: IMMERSE Log
                 VTR meeting and began working on trying to implement part of the symbiflow architecture into
                 VTR. However, it seems that this will be a difficult process and that it will be hard to piece
                 these parts together correctly in an architecture file.
+* **Friday**: Tried to assemble a VTR architecture file with a Xilinx slicel site, but it is taking a long time
+              as I predicted. Each piece of the file has had to be copied in recursively from the symbiflow
+              arch defs repo and I have been making modicifcations according to the error messages that I am
+              getting from VTR. In addition, I have been unable to complete the packing stage of VPR as it appears
+              to be expecting .latch primitives despite the symbiflow files use custom flip flops.
+
+### Week 8: June 14, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
 * **Friday**: 
