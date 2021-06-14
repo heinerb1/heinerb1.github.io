@@ -37,7 +37,7 @@ title: IMMERSE Log
 * **Thursday**: Read about Xilinx primitives and compared them to the symbiflow_arch_defs xml files. 
                 Attended meeting about VTR, wrote a python script to convert tab delinieated .txt files to comma 
                 deliniated .csv files, and ran some regression tests.
-* **Friday**: Ran regression tests to comapre modified versions of VTR architectures to their originals, 
+* **Friday**: Ran regression tests to compare modified versions of VTR architectures to their originals, 
               attended bootcamp meeting about python packages, and experimented with the packages.
 
 ### Week 4: May 17, 2021
@@ -108,12 +108,15 @@ title: IMMERSE Log
 * **Friday**: Tried to assemble a VTR architecture file with a Xilinx slicel site, but it is taking a long time
               as I predicted. Each piece of the file has had to be copied in recursively from the symbiflow
               arch defs repo and I have been making modicifcations according to the error messages that I am
-              getting from VTR. In addition, I have been unable to complete the packing stage of VPR as it appears
-              to be expecting .latch primitives despite the symbiflow files use custom flip flops.
+              getting from VTR. In addition, I have been unable to complete the packing stage of VPR as it appears to be expecting .latch primitives despite the symbiflow files using custom flip flops.
 
 ### Week 8: June 14, 2021
 
-* **Monday**: 
+* **Monday**: Worked on getting the slicel to place and route in VTR and I was ulimately successful. We 
+              discovered that in order for the slicel to work we needed an eblif file or to simplify the
+              slicel flip flops to match the .latch primitive in the blif file output by ODIN II. I accomplished
+              this by removing everything on the flip flops except the D, Q, and clk ports. Also cleaned up my 
+              code and merged in changes from the main VTR branch.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
