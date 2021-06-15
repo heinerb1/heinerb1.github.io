@@ -117,7 +117,10 @@ title: IMMERSE Log
               slicel flip flops to match the .latch primitive in the blif file output by ODIN II. I accomplished
               this by removing everything on the flip flops except the D, Q, and clk ports. Also cleaned up my 
               code and merged in changes from the main VTR branch.
-* **Tuesday**: 
+* **Tuesday**: Got the CLBLL_L, CLBLL_R, CLBLM_R, and CLBLM_R to place and route successfully in VTR. Each one
+               picks slicels instead of slicems, but that could be do the verilog file input and we might not
+               need slicems anyways. Started to look through the symbiflow architecture file to see if they
+               implemented any of the Xilinx inerconnects.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
