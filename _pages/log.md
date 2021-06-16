@@ -118,9 +118,12 @@ title: IMMERSE Log
               this by removing everything on the flip flops except the D, Q, and clk ports. Also cleaned up my 
               code and merged in changes from the main VTR branch.
 * **Tuesday**: Got the CLBLL_L, CLBLL_R, CLBLM_R, and CLBLM_R to place and route successfully in VTR. Each one
-               picks slicels instead of slicems, but that could be do the verilog file input and we might not
+               picks slicels instead of slicems, but that could be due to the verilog file input and we might not
                need slicems anyways. Started to look through the symbiflow architecture file to see if they
                implemented any of the Xilinx inerconnects.
-* **Wednesday**: 
+* **Wednesday**: Studied the Xilinx interconnects in Vivado and determined that the symbiflow files only contain
+                 information about the CLB sites and their primitives. It is hard to tell if the local wires that
+                 run through the interconnects to the switchboxes use any global routing resources, but it
+                 doesn't appear that they do. Also attended immerse meetings.
 * **Thursday**: 
 * **Friday**: 
