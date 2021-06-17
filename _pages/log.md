@@ -108,7 +108,8 @@ title: IMMERSE Log
 * **Friday**: Tried to assemble a VTR architecture file with a Xilinx slicel site, but it is taking a long time
               as I predicted. Each piece of the file has had to be copied in recursively from the symbiflow
               arch defs repo and I have been making modicifcations according to the error messages that I am
-              getting from VTR. In addition, I have been unable to complete the packing stage of VPR as it appears to be expecting .latch primitives despite the symbiflow files using custom flip flops.
+              getting from VTR. In addition, I have been unable to complete the packing stage of VPR as it 
+              appears to be expecting .latch primitives despite the symbiflow files using custom flip flops.
 
 ### Week 8: June 14, 2021
 
@@ -125,5 +126,9 @@ title: IMMERSE Log
                  information about the CLB sites and their primitives. It is hard to tell if the local wires that
                  run through the interconnects to the switchboxes use any global routing resources, but it
                  doesn't appear that they do. Also attended immerse meetings.
-* **Thursday**: 
+* **Thursday**: Attened weekly VTR meeting and re-read parts of the netcracker paper to find info on the local
+                site routing in Xilinx CLBs. However, I'm not sure where to begin on attempting to implement 
+                this in VTR. Also checked and ran tests on my channel width code because I think I might want to
+                open a pull request for it. Fixed a bug in my txt_to_csv.py script and helped Jonathan with some
+                git things.
 * **Friday**: 
