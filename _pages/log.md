@@ -131,4 +131,15 @@ title: IMMERSE Log
                 this in VTR. Also checked and ran tests on my channel width code because I think I might want to
                 open a pull request for it. Fixed a bug in my txt_to_csv.py script and helped Jonathan with some
                 git things.
-* **Friday**: 
+* **Friday**: Made some small fixes to my VTR branch so it would pass more of the checks on github. Examined the
+              switch boxes and interconnects in Vivado and created a file documenting what I found. Experimented
+              with some of the QoR settings since just one file failed the strong QoR check, but I couldn't figure
+              out what was causing it to be different.
+
+### Week 9: June 21, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
