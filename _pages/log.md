@@ -138,7 +138,9 @@ title: IMMERSE Log
 
 ### Week 9: June 21, 2021
 
-* **Monday**:
+* **Monday**: Cleaned up my channel width code, tested it, created a new branch, and opened a draft pull request
+              for it. Nearly finished implementing the fixes suggested by Vaughn Betz and it now passes all checks.
+              Also attended FPGA bootcamp meeting about Vivado IP block designs and using Vitis to program a board.
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
