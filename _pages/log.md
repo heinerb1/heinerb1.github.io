@@ -141,7 +141,9 @@ title: IMMERSE Log
 * **Monday**: Cleaned up my channel width code, tested it, created a new branch, and opened a draft pull request
               for it. Nearly finished implementing the fixes suggested by Vaughn Betz and it now passes all checks.
               Also attended FPGA bootcamp meeting about Vivado IP block designs and using Vitis to program a board.
-* **Tuesday**:
+* **Tuesday**: Finished implementing the fixes on the channel width code and updated my pull request. It should be
+               accepted soon after it is reviewed one last time. Also worked on cleaning up my VTR files and continued
+               looking for ways to implement interconnects in VTR in addition to other features we might need.
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
