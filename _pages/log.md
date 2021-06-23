@@ -144,6 +144,7 @@ title: IMMERSE Log
 * **Tuesday**: Finished implementing the fixes on the channel width code and updated my pull request. It should be
                accepted soon after it is reviewed one last time. Also worked on cleaning up my VTR files and continued
                looking for ways to implement interconnects in VTR in addition to other features we might need.
-* **Wednesday**:
+* **Wednesday**: Attended immerse meetings and FPGA bootcamp meeting about Vitis HLS. Reviewed VTR architecture
+                 reference about wire connections and studied these connections in one of the example architectures.
 * **Thursday**:
 * **Friday**:
