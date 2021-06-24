@@ -146,5 +146,8 @@ title: IMMERSE Log
                looking for ways to implement interconnects in VTR in addition to other features we might need.
 * **Wednesday**: Attended immerse meetings and FPGA bootcamp meeting about Vitis HLS. Reviewed VTR architecture
                  reference about wire connections and studied these connections in one of the example architectures.
-* **Thursday**:
+* **Thursday**: Attended VTR meetings and discussed the channel width code that I submitted a pull request for. Ran
+                tests on existing architectures with differing channel widths to see if they are scaling properly.
+                It seems that they are not quite scaling properly, so the rr_graph code will likely need to be changed. 
+                Documented pin fan in/out percentages to determine how inaccurate the scaling is.
 * **Friday**:
