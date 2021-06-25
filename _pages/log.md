@@ -150,4 +150,16 @@ title: IMMERSE Log
                 tests on existing architectures with differing channel widths to see if they are scaling properly.
                 It seems that they are not quite scaling properly, so the rr_graph code will likely need to be changed. 
                 Documented pin fan in/out percentages to determine how inaccurate the scaling is.
+* **Friday**: Finished documenting the pin fan in/out and began to search through the rr_graph code to figure out how
+              it works. Determined that the get_seg_track algorithm in rr_graph and rr_graph2 needs to be modified so
+              that it creates one set for the x direction and one set for the y direction rather than one set for the
+              entire FPGA. Fortunately the t_chan_width struct already stores info about the channel width x max and 
+              the channel width y max.
+
+### Week 10: June 28, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
 * **Friday**:
