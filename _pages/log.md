@@ -158,7 +158,9 @@ title: IMMERSE Log
 
 ### Week 10: June 28, 2021
 
-* **Monday**:
+* **Monday**: Continued to study and modify the rr_graph code. It turns out that it is going to be a lot more work than
+              I originally thought and I am not sure what most of these functions do or how they work. However, I made
+              some progress and was able to get a high level understanding of how the rr_graph is built.
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
