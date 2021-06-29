@@ -161,7 +161,9 @@ title: IMMERSE Log
 * **Monday**: Continued to study and modify the rr_graph code. It turns out that it is going to be a lot more work than
               I originally thought and I am not sure what most of these functions do or how they work. However, I made
               some progress and was able to get a high level understanding of how the rr_graph is built.
-* **Tuesday**:
+* **Tuesday**: Went through most of the build_rr_graph function to understand how it works. Made some modifications
+               to the rr_graph code and began to split it up into x and y segments. Also resolved errors that I began
+               to encounter as I started to change the code.
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
