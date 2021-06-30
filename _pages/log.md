@@ -164,6 +164,6 @@ title: IMMERSE Log
 * **Tuesday**: Went through most of the build_rr_graph function to understand how it works. Made some modifications
                to the rr_graph code and began to split it up into x and y segments. Also resolved errors that I began
                to encounter as I started to change the code.
-* **Wednesday**:
+* **Wednesday**: Helped with chip camp cleanroom module and briefly looked over some code in rr_graph2.cpp.
 * **Thursday**:
 * **Friday**:
