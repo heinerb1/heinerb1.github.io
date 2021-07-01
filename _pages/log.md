@@ -165,5 +165,8 @@ title: IMMERSE Log
                to the rr_graph code and began to split it up into x and y segments. Also resolved errors that I began
                to encounter as I started to change the code.
 * **Wednesday**: Helped with chip camp cleanroom module and briefly looked over some code in rr_graph2.cpp.
-* **Thursday**:
+* **Thursday**: Continued to experiment with the rr_graph code and understand it fully. Attended VTR meeting and
+                started to add some documentation to functions without any. Also started working on modifying the
+                alloc_and_load_actual_fc function so that it applies the correct fc value to channels of different
+                widths.
 * **Friday**:
