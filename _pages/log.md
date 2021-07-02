@@ -169,4 +169,7 @@ title: IMMERSE Log
                 started to add some documentation to functions without any. Also started working on modifying the
                 alloc_and_load_actual_fc function so that it applies the correct fc value to channels of different
                 widths.
-* **Friday**:
+* **Friday**: Made additional modifications to the alloc_and_load_actual_fc function, but it turns out that pins can be
+              assigned randomly around a logic block. As a result, I will need to modify the function parameters so that
+              the function has information about what part of the logic block the pin is located on. Also spent some time
+              trying to determine the fc values of the pips for 7 series logic blocks.
