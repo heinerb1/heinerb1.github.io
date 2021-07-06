@@ -173,3 +173,14 @@ title: IMMERSE Log
               assigned randomly around a logic block. As a result, I will need to modify the function parameters so that
               the function has information about what part of the logic block the pin is located on. Also spent some time
               trying to determine the fc values of the pips for 7 series logic blocks.
+
+### Week 11: July 5, 2021
+
+* **Monday**: Independence Day Holiday.
+* **Tuesday**: Continued to study the rr_graph code and make changes to it. It seems that the code that determines which
+               side of the logic block a pin is located on comes after the code that assigns connections to each pin so
+               I will have to find a way to get that information earlier. Also experimented with git and discarded some
+               changes I had made to my VTR repo so that I can observe the original behavior again.
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
