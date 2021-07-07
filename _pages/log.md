@@ -181,6 +181,10 @@ title: IMMERSE Log
                side of the logic block a pin is located on comes after the code that assigns connections to each pin so
                I will have to find a way to get that information earlier. Also experimented with git and discarded some
                changes I had made to my VTR repo so that I can observe the original behavior again.
-* **Wednesday**: 
+* **Wednesday**: Added additional documentation to several functions in the rr_graph code to better understand how
+                 they work. Continued to observe the behavior of pin assignments and I am still unsure how they are
+                 assigned to a specific side of a logic block. It seems that I will need to understand the code thoroughly
+                 before I can begin to make any changes since I likely need to make large modifications to many of the
+                 functions.
 * **Thursday**: 
 * **Friday**: 
