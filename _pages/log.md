@@ -186,5 +186,8 @@ title: IMMERSE Log
                  assigned to a specific side of a logic block. It seems that I will need to understand the code thoroughly
                  before I can begin to make any changes since I likely need to make large modifications to many of the
                  functions.
-* **Thursday**: 
+* **Thursday**: Attened VTR meetings and gave an update on what I have been working on. Began to put portions of the
+                function that determines pin location in its own helper function to see if I can use existing code to
+                get the location information earlier for the alloc_and_load_actual_fc function. I also experimented with
+                other changes and began studying other functions that use the pin location information. 
 * **Friday**: 
