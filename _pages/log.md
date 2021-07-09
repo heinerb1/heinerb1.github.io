@@ -190,4 +190,7 @@ title: IMMERSE Log
                 function that determines pin location in its own helper function to see if I can use existing code to
                 get the location information earlier for the alloc_and_load_actual_fc function. I also experimented with
                 other changes and began studying other functions that use the pin location information. 
-* **Friday**: 
+* **Friday**: Began to implement the pin location information and determine if the connection counts are now correct.
+              I am not sure how the io block determines pin location, since it has the same pin listed on all sides 
+              in the location description. Hopefully this doesn't interfere with the connection alogrithm that I am
+              creating or I will likely have to create a custom case for io blocks.
