@@ -205,7 +205,11 @@ title: IMMERSE Log
 
 ### Week 13: July 19, 2021
 
-* **Monday**: 
+* **Monday**: Successfully modified the Fc value array for all logic blocks except for io blocks. Tested my changes and
+              was able to successfully run VPR. However, my changes had an effect on designs with channels of equal widths,
+              so I modified the alloc_and_load_actual_fc function to only use the new code for designs with channels of
+              different widths. In addition, I am not sure if I need to now modify other parts of the rr_graph now that the
+              fc values are correct and there are no regression tests that cover this since it is a new feature.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
