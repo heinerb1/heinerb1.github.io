@@ -194,3 +194,19 @@ title: IMMERSE Log
               I am not sure how the io block determines pin location, since it has the same pin listed on all sides 
               in the location description. Hopefully this doesn't interfere with the connection alogrithm that I am
               creating or I will likely have to create a custom case for io blocks.
+
+### Week 12: July 12, 2021
+
+* **Monday**: Home in California on vacation.
+* **Tuesday**: Home in California on vacation.
+* **Wednesday**: Home in California on vacation.
+* **Thursday**: Home in California on vacation.
+* **Friday**: Home in California on vacation.
+
+### Week 13: July 19, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
