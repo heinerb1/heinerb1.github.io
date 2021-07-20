@@ -210,7 +210,11 @@ title: IMMERSE Log
               so I modified the alloc_and_load_actual_fc function to only use the new code for designs with channels of
               different widths. In addition, I am not sure if I need to now modify other parts of the rr_graph now that the
               fc values are correct and there are no regression tests that cover this since it is a new feature.
-* **Tuesday**: 
+* **Tuesday**: Worked a half-day due to an optometrist appointment. Spent some time studying the rr_graph code to see if I
+               could find how pin location works for io blocks, and discovered that it assigns the same pin to all sides.
+               As a result, I am not sure how I can modify the io blocks so that they will work with the new code I created.
+               Also began to look at other parts of the design in the GUI to see if there are other parts that are incorrect
+               with different channel widths in the horizontal and vertical directions.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
