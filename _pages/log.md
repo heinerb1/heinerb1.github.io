@@ -215,6 +215,8 @@ title: IMMERSE Log
                As a result, I am not sure how I can modify the io blocks so that they will work with the new code I created.
                Also began to look at other parts of the design in the GUI to see if there are other parts that are incorrect
                with different channel widths in the horizontal and vertical directions.
-* **Wednesday**: 
+* **Wednesday**: Attended immerse meetings and continued to study other parts of the rr_graph code. Also made a few minor
+                 modifications and cleaned up some of the code. I am still not sure what the best solution is for the 
+                 io blocks, but it might be able to be resolved by changing the Fc value later in the code when it is used.
 * **Thursday**: 
 * **Friday**: 
