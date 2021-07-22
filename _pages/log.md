@@ -218,5 +218,8 @@ title: IMMERSE Log
 * **Wednesday**: Attended immerse meetings and continued to study other parts of the rr_graph code. Also made a few minor
                  modifications and cleaned up some of the code. I am still not sure what the best solution is for the 
                  io blocks, but it might be able to be resolved by changing the Fc value later in the code when it is used.
-* **Thursday**: 
+* **Thursday**: Attened VTR meeting and gave a brief update on the channel width progress. Created a text file outlining
+                what I have accomplished so far and what work needs to be done so that the different channel widths will
+                work properly. Got the opins on the io blocks to have the right Fc value, so it should be easy to get the
+                ipins to work now.
 * **Friday**: 
