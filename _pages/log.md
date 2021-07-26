@@ -222,4 +222,15 @@ title: IMMERSE Log
                 what I have accomplished so far and what work needs to be done so that the different channel widths will
                 work properly. Got the opins on the io blocks to have the right Fc value, so it should be easy to get the
                 ipins to work now.
+* **Friday**: Pioneer Day Holiday.
+
+### Week 14: July 26, 2021
+
+* **Monday**: Finished getting the Fc values to be correct for designs with different horizontal and vertical channel widths.
+              Tested my code with various different designs and ensured that none of my changes interfered with the current
+              regression tests. I still need to clean up the code a little, but I should be able to open a pull request for
+              this section of the code now.
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
 * **Friday**: 
