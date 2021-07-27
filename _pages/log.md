@@ -230,7 +230,9 @@ title: IMMERSE Log
               Tested my code with various different designs and ensured that none of my changes interfered with the current
               regression tests. I still need to clean up the code a little, but I should be able to open a pull request for
               this section of the code now.
-* **Tuesday**: 
+* **Tuesday**: Attended symbiflow meeting and spent some time coordinating with Bryce on how the channel width changes can
+               interact with the segment changes that he is working on. Also created a powerpoint presentation for my ethics
+               broader impacts group that summarizes my case study analysis.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
