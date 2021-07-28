@@ -233,6 +233,8 @@ title: IMMERSE Log
 * **Tuesday**: Attended symbiflow meeting and spent some time coordinating with Bryce on how the channel width changes can
                interact with the segment changes that he is working on. Also created a powerpoint presentation for my ethics
                broader impacts group that summarizes my case study analysis.
-* **Wednesday**: 
+* **Wednesday**: Attended immerse meetings and pushed the channel width code to github. However, it seems to now be failing
+                 some checks so I am trying to figure out why it is now failing these checks and which commit is causing the
+                 issues.
 * **Thursday**: 
 * **Friday**: 
