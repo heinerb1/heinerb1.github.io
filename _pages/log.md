@@ -236,5 +236,8 @@ title: IMMERSE Log
 * **Wednesday**: Attended immerse meetings and pushed the channel width code to github. However, it seems to now be failing
                  some checks so I am trying to figure out why it is now failing these checks and which commit is causing the
                  issues.
-* **Thursday**: 
+* **Thursday**: Attended VTR meeting and created a draft pull request for the channel width code that I have been working
+                on. I started to look into why my results are different when I use one set of code split into x and y
+                channels, and I believe it is because my code uses location data to allocate the pins while the old code
+                simply assigns all pins connections equally, resulting in a design slightly farther away from the target fc percentage.
 * **Friday**: 
