@@ -240,4 +240,7 @@ title: IMMERSE Log
                 on. I started to look into why my results are different when I use one set of code split into x and y
                 channels, and I believe it is because my code uses location data to allocate the pins while the old code
                 simply assigns all pins connections equally, resulting in a design slightly farther away from the target fc percentage.
-* **Friday**: 
+* **Friday**: Worked on unifying the channel width code. I made a lot of improvements, but I still can't figure out how to
+              implement one piece of the original code that I believe is causing the QoR errors that I am getting now.
+              However, I did fix the pin assignment by swapping the for loops for width and height to before the for loop
+              that iterates through the pins.
