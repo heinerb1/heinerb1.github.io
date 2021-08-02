@@ -244,3 +244,13 @@ title: IMMERSE Log
               implement one piece of the original code that I believe is causing the QoR errors that I am getting now.
               However, I did fix the pin assignment by swapping the for loops for width and height to before the for loop
               that iterates through the pins.
+
+### Week 15: August 2, 2021
+
+* **Monday**: Continued to work on the channel width code to reduce the number of QoR erros. I have been able to reduce the
+              number to 11, but my further attempts to reduce this number further is causing the execution time to rise
+              dramatically.
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
