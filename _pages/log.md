@@ -247,10 +247,12 @@ title: IMMERSE Log
 
 ### Week 15: August 2, 2021
 
-* **Monday**: Continued to work on the channel width code to reduce the number of QoR erros. I have been able to reduce the
+* **Monday**: Continued to work on the channel width code to reduce the number of QoR errors. I have been able to reduce the
               number to 11, but my further attempts to reduce this number further is causing the execution time to rise
               dramatically.
-* **Tuesday**: 
+* **Tuesday**: Worked more on the channel width code, but I still have been unable to unify the pieces of code. Currently
+               there are still 11 QoR errors and the attempts that I have made to debug and fix this issue have only
+               resulted in more QoR errors so far.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
