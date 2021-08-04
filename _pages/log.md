@@ -253,6 +253,7 @@ title: IMMERSE Log
 * **Tuesday**: Worked more on the channel width code, but I still have been unable to unify the pieces of code. Currently
                there are still 11 QoR errors and the attempts that I have made to debug and fix this issue have only
                resulted in more QoR errors so far.
-* **Wednesday**: 
+* **Wednesday**: Attended immerse meetings and continued to work on the channel width code. Some of the changes that I
+                 tried to make appeared to work at first, but ended up causing additional QoR errors.
 * **Thursday**: 
 * **Friday**: 
