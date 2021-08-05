@@ -255,5 +255,6 @@ title: IMMERSE Log
                resulted in more QoR errors so far.
 * **Wednesday**: Attended immerse meetings and continued to work on the channel width code. Some of the changes that I
                  tried to make appeared to work at first, but ended up causing additional QoR errors.
-* **Thursday**: 
+* **Thursday**: Attended VTR meeting and continued to work on improving the channel width code. I made some progress on
+                reducing QoR problems without impacting the execution time.
 * **Friday**: 
