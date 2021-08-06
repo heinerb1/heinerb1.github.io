@@ -257,4 +257,5 @@ title: IMMERSE Log
                  tried to make appeared to work at first, but ended up causing additional QoR errors.
 * **Thursday**: Attended VTR meeting and continued to work on improving the channel width code. I made some progress on
                 reducing QoR problems without impacting the execution time.
-* **Friday**: 
+* **Friday**: Added in documentation to the channel width code and I am only one minor QoR error away from finishing the
+              code unification. Also performed a rebase and pushed my code to update my pull request.
