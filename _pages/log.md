@@ -259,3 +259,11 @@ title: IMMERSE Log
                 reducing QoR problems without impacting the execution time.
 * **Friday**: Added in documentation to the channel width code and I am only one minor QoR error away from finishing the
               code unification. Also performed a rebase and pushed my code to update my pull request.
+
+
+### Week 16: August 9, 2021
+
+* **Monday**: Fixed my pull request and opened an issue on VTR about the Python Lint test now failing for new runs. Also
+              cleaned up my code and analyzed what might be causing the last QoR error. I think that it is due to
+              the new algorithm that I am using giving a slightly better fc approximation that the old algorithm.
+* **Tuesday**: 
