@@ -266,4 +266,8 @@ title: IMMERSE Log
 * **Monday**: Fixed my pull request and opened an issue on VTR about the Python Lint test now failing for new runs. Also
               cleaned up my code and analyzed what might be causing the last QoR error. I think that it is due to
               the new algorithm that I am using giving a slightly better fc approximation that the old algorithm.
-* **Tuesday**: 
+* **Tuesday**: Last day of work for the summer. Unified the channel width code for absolute and fractional fc specs,
+               and re-arranged it so that it matches the old format. My pull request has been updated and I added a
+               bunch of documentation so hopefully it will be easy for someone else to fix the last QoR error and
+               continue with the channel width modifications now that one section of it is done. Also attended the
+               Symbiflow meeting.
